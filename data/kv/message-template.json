@@ -1,0 +1,7 @@
+{
+  "appName": "Zenox",
+  "senderName": "STW-Verify",
+  "subject": "Your {app_name} OTP code",
+  "text": "Hello, your OTP for {app_name} is {otp}",
+  "html": "<p>OTP for {app_name}: <b>{otp}</b></p>"
+}

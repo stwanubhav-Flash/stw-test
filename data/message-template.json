@@ -1,0 +1,7 @@
+{
+  "appName": "Zenox",
+  "senderName": "STW-Verify",
+  "subject": "Your {app_name} OTP code",
+  "text": "Hello,\n\nYour OTP code for {app_name} is {otp}.\nIt expires in {ttl_minutes} minute(s).\n\n- STW-Verify",
+  "html": "<p>Hello,</p><p>Your OTP code for <b>{app_name}</b> is <b>{otp}</b>.</p><p>It expires in {ttl_minutes} minute(s).</p>"
+}
